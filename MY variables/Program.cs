@@ -12,7 +12,7 @@ namespace MY_variables
         {
             //Muhnnd Variable;
             int xy = 90;
-            Console.WriteLine("IS variable MUHNND2 = {0}",xy);
+            Console.WriteLine("IS variable MUHNND = {0}",xy);
             Console.ReadKey();
         }
     }
